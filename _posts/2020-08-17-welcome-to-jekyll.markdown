@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduccion de la Ingenieria de Software"
+title:  "Ingenieria de Software y Modelos de los Proceso de Software"
 author: "George Andy Rumbea Campos"
-date:   2020-08-16 15:52:58-
+date:   2020-08-16 17:52:58-
 ---
 
 <p>Ingenieria de Software

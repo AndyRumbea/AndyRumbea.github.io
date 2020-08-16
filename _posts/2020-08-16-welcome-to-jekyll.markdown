@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduccion a la Ingenieria de Software"
+title:  "Proceso de Software, problemas al desarrollar Software, crisis y proyecto de software"
 author: "George Andy Rumbea Campos"
-date:   2020-08-16 15:52:58-
+date:   2020-08-16 16:52:58-
 ---
 
 <p>Proceso de Software

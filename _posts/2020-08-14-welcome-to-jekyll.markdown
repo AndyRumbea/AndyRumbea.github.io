@@ -2,7 +2,7 @@
 layout: post
 title:  "Presentacion"
 author: "George Andy Rumbea Campos"
-date:   2020-08-15 15:52:58-
+date:   2020-08-15 14:52:58-
 ---
 
 <p>Hola que tal buen dia 

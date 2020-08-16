@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduccion a la Ingenieria de Software"
+title:  "¿Que es un Software? y ¿Que es la Ingenieria de Software?"
 author: "George Andy Rumbea Campos"
 date:   2020-08-15 15:52:58-
 ---
