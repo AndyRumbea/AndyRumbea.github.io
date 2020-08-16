@@ -4,11 +4,7 @@ title:  "Introduccion a la Ingenieria de Software"
 author: "George Andy Rumbea Campos"
 date:   2020-08-16 15:52:58-
 ---
-<html>
-    <head>
-         <title>¿Que es un proceso de Software?</title>
-         </head>
-         <body>
+
 <p>Proceso de Software
 
 Un conjunto estructurado de actividades, cuya meta es el
@@ -63,9 +59,6 @@ antes del "verdadero" trabajo...
 *La dicultad depende del tama~no
 *Los problemas de organizacion y gestion son tan complicados como los
 *problemas técnicos</p>
-            </body>
- </html>           
-
 
 
  

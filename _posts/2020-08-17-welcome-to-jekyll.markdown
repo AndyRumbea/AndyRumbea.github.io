@@ -4,11 +4,7 @@ title:  "Introduccion de la Ingenieria de Software"
 author: "George Andy Rumbea Campos"
 date:   2020-08-16 15:52:58-
 ---
-<html>
-    <head>
-         <title>Ingenieria de Software</title>
-         </head>
-         <body>
+
 <p>Ingenieria de Software
 
 El metodo cientifico (en general) consiste en la observacion sistematica,
@@ -86,8 +82,6 @@ si desean ser respetados como profesionales
 *Competencia
 *Derechos de propiedad intelectual
 *Mal uso de la computadora</p>
-           </body>
- </html>          
 
 
 

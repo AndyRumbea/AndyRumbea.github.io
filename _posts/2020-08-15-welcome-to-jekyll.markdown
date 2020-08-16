@@ -4,11 +4,7 @@ title:  "Introduccion a la Ingenieria de Software"
 author: "George Andy Rumbea Campos"
 date:   2020-08-15 15:52:58-
 ---
-<html>
-    <head>
-         <title>Definicion de Software e Ingenieria de Software</title>
-         </head>
-         <body>
+
 <p>¿Que es un Software?
 Programas de cómputo y su documentación asociada: requerimientos,
 modelos de diseño y manuales de usuario.
@@ -30,10 +26,6 @@ I Utilizar las herramientas y técnicas mas apropiadas dependiendo
 * del problema a resolver,
 * las restricciones del desarrollo y
 * los recursos disponibles.</p>
-           </body>
- </html>          
-
-
 
 
            
