@@ -4,16 +4,15 @@ title:  "Ingenieria de Software y Modelos de los Proceso de Software"
 author: "George Andy Rumbea Campos"
 date:   2020-08-16 17:52:58-
 ---
+<p>Ingenieria de Software</p>
 
-<p>Ingenieria de Software
-
-El metodo cientifico (en general) consiste en la observacion sistematica,
+<p>El metodo cientifico (en general) consiste en la observacion sistematica,
 medicion, experimentacion y la formulacion, analisis, y modicacion de
 hipotesis.</p>
 
-<p>La IS es algo mas que programar
+<p>La IS es algo mas que programar</p>
 
-El proceso de la IS empieza mucho antes de escribir lineas de codigo y
+<p>El proceso de la IS empieza mucho antes de escribir lineas de codigo y
 continua despues de que la primera version del producto haya sido
 completada
 Las etapas por las que atraviesa un producto software a lo largo de su
@@ -27,9 +26,9 @@ A pesar de las ventajas e inconvenientes de cada uno de ellos, todos
 tienen una serie de etapas/actividades en comun: analisis, diseño,
 implementacion, pruebas.</p>
 
-<p>Tipos de sistemas software
+<p>Tipos de sistemas software</p>
 
-Distintas clasicaciones para tipos de sistemas software:
+<p>Distintas clasicaciones para tipos de sistemas software:
 *Sistemas de Informacion: orientados a la gestion de informacion en
 empresas para tratar sus operaciones o servicios de negocio
 *Sistemas empotrados: residentes en memoria para controlar
@@ -43,9 +42,9 @@ CD) hasta sistemas complejos (ej. Maquinaria de una planta quimica)
 *Software de sistema: software para servir a otros programas (SO,
 compiladores. . . ).</p>
 
-<p>Modelos de Los Procesos de Software
+<p>Modelos de Los Procesos de Software</p>
 
-Representacion formal y simplicada de un proceso de software,
+<p>Representacion formal y simplicada de un proceso de software,
 presentada desde una perspectiva especifica
 Dicho de otra forma, los procesos son instancias de un modelo de
 proceso
@@ -55,8 +54,8 @@ I Flujo de datos,
 flujo de la informacion
 I Rol/accion, quien realiza qué.</p>
 
-<p>*Cascada, separar en distintas fases de especicacion y desarrollo.
-*Desarrollo Iterativo, la especicacion, desarrollo y validacion estan
+<p>*Cascada, separar en distintas fases de especicacion y desarrollo.</p>
+<p>*Desarrollo Iterativo, la especicacion, desarrollo y validacion estan
 interrelacionados
 *Prototipado, un modelo sirve de prototipo para la construccion del sistema
 final
@@ -71,9 +70,9 @@ existente
 *Metodos Formales, transformar una especicacion formal a lo largo de
 varias representaciones hasta llegar a un programa ejecutable.</p>
 
-<p>Responsabilidad y etica Social
+<p>Responsabilidad y etica Social</p>
 
-*La Ingeniería de Software comprende responsabilidades que van mas
+<p>*La Ingeniería de Software comprende responsabilidades que van mas
 alla de la simple aplicacion de habilidades tecnicas
 *Los ingenieros de software deben actuar de manera honesta y etica
 si desean ser respetados como profesionales
